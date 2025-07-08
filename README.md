@@ -9,7 +9,8 @@ Welcome to my research portfolio. This repository showcases research proposals a
 
 This proposal outlines a plan to analyze news headlines from Pakistan, India, and Bangladesh to explore how media language can subtly shift blame onto victims of gender-based violence. It includes the research objective, methodology, tools, and expected outcomes.
 
-📄 *Proposal document attached* as a PDF.
+📄 *Proposal document attached* as a PDF
+[VictimBlaming_SouthAsia_MediaAnalysis_AzmatFatima.pdf](https://github.com/user-attachments/files/21115239/VictimBlaming_SouthAsia_MediaAnalysis_AzmatFatima.pdf)
 
 ### 🛠 Tools Planned
 - Microsoft Excel
@@ -19,3 +20,4 @@ This proposal outlines a plan to analyze news headlines from Pakistan, India, an
 ### 🔗 Status
 📝 *Proposal Stage*  
 📌 Research phase to follow.
+
