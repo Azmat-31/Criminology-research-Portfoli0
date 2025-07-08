@@ -13,7 +13,6 @@ This proposal outlines a plan to analyze news headlines from Pakistan, India, an
 
 ### 🛠 Tools Planned
 - Microsoft Excel
-- Jupyter Notebook
 - Google Sheets
 - Newspaper3k (Python Library)
 
